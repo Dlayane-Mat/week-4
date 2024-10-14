@@ -1,0 +1,12 @@
+h1 {
+  font-weight: bold;
+  color: black;
+  font-family: playfair;
+}
+p {
+  font-family: poppins;
+}
+.hero {
+  background: #f9f7fe;
+  text-align: center;
+}
